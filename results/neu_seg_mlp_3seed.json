@@ -1,0 +1,41 @@
+{
+  "lora_s0": {
+    "mode": "lora",
+    "iou": 0.6946785623404764,
+    "dice": 0.8198351920863081,
+    "acc": 0.9942459833054316,
+    "best_epoch": 5,
+    "trainable": 542722,
+    "total": 4257380,
+    "train_sec": 733.8748369216919,
+    "dataset": "NEU-Seg",
+    "size": 256,
+    "epochs": 8
+  },
+  "lora_s1": {
+    "mode": "lora",
+    "iou": 0.6997128510131501,
+    "dice": 0.8233306591711315,
+    "acc": 0.9940275464739118,
+    "best_epoch": 5,
+    "trainable": 542722,
+    "total": 4257380,
+    "train_sec": 719.7255299091339,
+    "dataset": "NEU-Seg",
+    "size": 256,
+    "epochs": 8
+  },
+  "lora_s2": {
+    "mode": "lora",
+    "iou": 0.7031411711936555,
+    "dice": 0.8256992233953869,
+    "acc": 0.9938204992385138,
+    "best_epoch": 6,
+    "trainable": 542722,
+    "total": 4257380,
+    "train_sec": 723.0862464904785,
+    "dataset": "NEU-Seg",
+    "size": 256,
+    "epochs": 8
+  }
+}

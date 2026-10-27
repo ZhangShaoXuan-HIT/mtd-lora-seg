@@ -1,0 +1,9 @@
+# Tested with Python 3.10+; the paper runs used Python 3.14.
+torch>=2.4
+torchvision>=0.19
+transformers>=4.45
+peft>=0.12
+numpy>=1.26
+Pillow>=10.0
+matplotlib>=3.8
+scipy>=1.11

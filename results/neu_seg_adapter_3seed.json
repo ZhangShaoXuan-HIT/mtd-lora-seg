@@ -1,0 +1,41 @@
+{
+  "adapter_s0": {
+    "mode": "adapter",
+    "iou": 0.7031372567136185,
+    "dice": 0.8256965243898139,
+    "acc": 0.9941635313488189,
+    "best_epoch": 4,
+    "trainable": 494850,
+    "total": 3814242,
+    "train_sec": 505.81443643569946,
+    "dataset": "NEU-Seg",
+    "size": 256,
+    "epochs": 8
+  },
+  "adapter_s1": {
+    "mode": "adapter",
+    "iou": 0.6912971507713729,
+    "dice": 0.8174756877655516,
+    "acc": 0.9939428783598401,
+    "best_epoch": 6,
+    "trainable": 494850,
+    "total": 3814242,
+    "train_sec": 494.0181415081024,
+    "dataset": "NEU-Seg",
+    "size": 256,
+    "epochs": 8
+  },
+  "adapter_s2": {
+    "mode": "adapter",
+    "iou": 0.6692333994274895,
+    "dice": 0.8018452058975358,
+    "acc": 0.9930061885288783,
+    "best_epoch": 4,
+    "trainable": 494850,
+    "total": 3814242,
+    "train_sec": 492.64882707595825,
+    "dataset": "NEU-Seg",
+    "size": 256,
+    "epochs": 8
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "frozen": {
+    "Blowhole": 0.5431,
+    "Break": 0.5629,
+    "Crack": 0.384,
+    "Fray": 0.7899,
+    "Free": 0.0,
+    "Uneven": 0.4488
+  },
+  "lora": {
+    "Blowhole": 0.6829,
+    "Break": 0.7691,
+    "Crack": 0.5407,
+    "Fray": 0.8595,
+    "Free": 0.0,
+    "Uneven": 0.7486
+  }
+}

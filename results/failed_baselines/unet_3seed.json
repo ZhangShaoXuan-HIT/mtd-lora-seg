@@ -1,0 +1,11 @@
+{
+  "unet_s0": {
+    "mode": "unet",
+    "iou": 0.0,
+    "dice": 0.0,
+    "acc": 0.9722504038869598,
+    "best_epoch": 0,
+    "trainable": 7763041,
+    "train_sec": 530.2307996749878
+  }
+}

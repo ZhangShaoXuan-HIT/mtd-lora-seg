@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper and the two datasets."
+title: "Low-Rank Adaptation for Industrial Defect Segmentation"
+abstract: "Code and result artifacts for a grouped-split study of where low-rank capacity is placed in a frozen SegFormer-B0 encoder for magnetic-tile and steel-surface defect segmentation."
+type: software
+authors:
+  - family-names: "[Family Name]"
+    given-names: "[Given Name]"
+repository-code: "https://github.com/[username]/mtd-lora-seg"
+url: "https://github.com/[username]/mtd-lora-seg"
+license: MIT
+year: 2026
+keywords:
+  - industrial defect segmentation
+  - parameter-efficient fine-tuning
+  - LoRA
+  - SegFormer
+  - magnetic tile
+  - steel surface

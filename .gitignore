@@ -1,0 +1,28 @@
+# datasets (never commit images or masks)
+data/*
+!data/README.md
+
+# model checkpoints
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# generated runs
+results/reproduced/
+out/
+runs/
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
