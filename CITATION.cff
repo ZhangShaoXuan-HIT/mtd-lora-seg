@@ -4,8 +4,9 @@ title: "Low-Rank Adaptation for Industrial Defect Segmentation"
 abstract: "Code and result artifacts for a grouped-split study of where low-rank capacity is placed in a frozen SegFormer-B0 encoder for magnetic-tile and steel-surface defect segmentation."
 type: software
 authors:
-  - family-names: "[Family Name]"
-    given-names: "[Given Name]"
+  - family-names: "Zhang"
+    given-names: "ShaoXuan"
+    email: "2023113033@stu.hit.edu.cn"
 repository-code: "https://github.com/ZhangShaoXuan-HIT/mtd-lora-seg"
 url: "https://github.com/ZhangShaoXuan-HIT/mtd-lora-seg"
 license: MIT
