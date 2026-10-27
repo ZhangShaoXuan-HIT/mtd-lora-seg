@@ -6,8 +6,8 @@ type: software
 authors:
   - family-names: "[Family Name]"
     given-names: "[Given Name]"
-repository-code: "https://github.com/[username]/mtd-lora-seg"
-url: "https://github.com/[username]/mtd-lora-seg"
+repository-code: "https://github.com/ZhangShaoXuan-HIT/mtd-lora-seg"
+url: "https://github.com/ZhangShaoXuan-HIT/mtd-lora-seg"
 license: MIT
 year: 2026
 keywords:
