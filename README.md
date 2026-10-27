@@ -1,5 +1,7 @@
 # Low-Rank Adaptation for Industrial Defect Segmentation
 
+Repository: https://github.com/ZhangShaoXuan-HIT/mtd-lora-seg
+
 Code and result artifacts for the paper:
 
 > Where to Put Low-Rank Capacity? A Grouped-Split Study of LoRA for Industrial Defect Segmentation
