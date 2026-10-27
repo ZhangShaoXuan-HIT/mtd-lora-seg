@@ -5,7 +5,7 @@ abstract: "Code and result artifacts for a grouped-split study of where low-rank
 type: software
 authors:
   - family-names: "Zhang"
-    given-names: "ShaoXuan"
+    given-names: "Shaoxuan"
     email: "2023113033@stu.hit.edu.cn"
 repository-code: "https://github.com/ZhangShaoXuan-HIT/mtd-lora-seg"
 url: "https://github.com/ZhangShaoXuan-HIT/mtd-lora-seg"
